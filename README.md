@@ -1,4 +1,5 @@
 # RedName
+##### N.B. Requires Python
 Very simple python program that takes a file of line separated names as input,  
 checks each names availability as a username on reddit using reddits username  
 API and outputs two files, a list of those from names.txt which are available  
